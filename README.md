@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm David Portilla, a Frontend Engineer with expertise in user experience and accessibility (a11y).
+I'm a Software Engineer, a creator of digital products with expertise in user experience and accessibility.
 
 <!--
 **david-portilla/david-portilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
